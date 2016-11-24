@@ -54,6 +54,7 @@ acs-*.bib
 *.nav
 *.snm
 *.vrb
+*.pre
 
 # cprotect
 *.cpt
